@@ -3,7 +3,7 @@ from PIL import Image, ImageFilter, ImageEnhance
 import os
 from datetime import datetime
 
-
+# 깃 연동ㅇㅇ
 # 이미지 파일 열어주는 함수
 # 이걸 써야 불러온 파일이 열림
 def load_image(image_file):
